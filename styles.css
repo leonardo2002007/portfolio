@@ -37,6 +37,6 @@ body{
 }
 .titulo-destaque{
     color: #3BFD22;
-    weight: 500
+    font-weight: 500;
 }
 
