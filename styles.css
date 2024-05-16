@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000000;
+    color: #F6F6F6;
+}
+.cabecalho__marca{
+    width: 5%;
+    height: auto;
+}
+.cabecalho__marca__nome{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #3BFD22;
+}
+.cabecalho__menu{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #3BFD22;
+    border: 2px solid #3BFD22;
+    padding: 18.5px 10px;
+    border-radius: 8px;
+}
+.cabecalho__marca__nome{
+    background-color: #272727;
+    border-radius: 16px;
+}
+.apresentacao{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.25rem;
+    font-weight: 500;
+}
+.titulo-destaque{
+    color: #3BFD22;
+    weight: 500
+}
+
